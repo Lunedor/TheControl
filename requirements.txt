@@ -1,0 +1,4 @@
+psutil
+ttkbootstrap
+Pillow
+pystray
