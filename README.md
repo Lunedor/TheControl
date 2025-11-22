@@ -93,6 +93,12 @@ Required packages:
 python control.py
 ```
 
+or without command line option
+
+```bash
+python control.pyw
+```
+
 > The first launch will show the UI. After that, it runs in the system tray.
 
 ---
